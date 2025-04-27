@@ -31,7 +31,7 @@ The Ultimate Memory Game is an interactive web-based game designed to test and i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ultimate-memory-game.git
+   git clone https://github.com/NikhilSaini0512/Memory-Game.git
    ```
 
 2. Navigate to the project directory:
